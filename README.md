@@ -25,6 +25,14 @@ npm install
 npm run dev
 ```
 
+## Technologies used
+
+- [React](https://reactjs.org/)
+- [Tailwind](https://tailwindcss.com/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [NodeJS](https://nodejs.org/en/)
+
 ## Author
 
 👤 **Armando Guarino**
