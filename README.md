@@ -5,7 +5,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/\_guarmo" target="_blank">
-    <img alt="Twitter: \_guarmo" src="https://img.shields.io/twitter/follow/\_guarmo.svg?style=social" />
+    <img alt="Twitter: @_guarmo" src="https://img.shields.io/twitter/follow/\_guarmo.svg?style=social" />
   </a>
 </p>
 
